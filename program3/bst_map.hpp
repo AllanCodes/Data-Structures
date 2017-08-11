@@ -1,7 +1,3 @@
-// Submitter: aeivazia(Eivazian, Allan)
-// Partner  : tommyll(Le, Tommy)
-// We certify that we worked cooperatively on this programming
-//   assignment, according to the rules for pair programming
 #ifndef BST_MAP_HPP_
 #define BST_MAP_HPP_
 
